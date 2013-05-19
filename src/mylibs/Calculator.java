@@ -13,4 +13,9 @@ public class Calculator {
 		//subtract y from x
 		return x-y;
 	}
+
+	public static int mult(int x, int y){
+		//multiply x and y
+		return x*y;
+	}
 }
