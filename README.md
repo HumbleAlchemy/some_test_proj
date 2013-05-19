@@ -1,3 +1,3 @@
-# test java repo
+# To see working of branching
 
-for GitHub GUI client
+with this java project
