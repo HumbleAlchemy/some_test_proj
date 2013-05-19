@@ -14,7 +14,9 @@ public class MainClass {
 		res = Calculator.sub(x, y);
 		resm = Calculator.mult(x,y);
 		System.out.println("result is: "+res);
+		System.out.println("this may create conflict, no conflict");
 		System.out.println("result is: "+resm);
+		//features completed
 	}
 
 }
